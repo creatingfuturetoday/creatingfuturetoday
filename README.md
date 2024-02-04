@@ -1,7 +1,7 @@
 ### Glad to have you visiting🤝
 
 <h1 align="center">
-  <img src="https://github.com/creatingfuturetoday/creatingfuturetoday/blob/main/dhruv-kr-high-resolution-logo%20(1).png" alt="dhruv-kr-high-resolution-logo%20(1)" width="600" height="425" />
+  <img src="https://github.com/creatingfuturetoday/creatingfuturetoday/blob/main/dhruv-kr-high-resolution-logo%20(1).png" alt="dhruv-kr-high-resolution-logo%20(1)" width="500" height="325" />
 </h1>
 
 Pragmatic and influential problem solving enthusiast, using constantly updating learnt skills and innovative tech.
